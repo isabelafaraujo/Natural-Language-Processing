@@ -1,5 +1,6 @@
 # Transformer mask
 
-A simple project to complete parts of sentences using Masked Language Modeling with Transformers, in Portuguese. 
+This repository contains some applications of natural language processing techniques, such as a simple project to complete parts of sentences using Masked Language Modeling with Transformers, in Portuguese, basic data structure formats from the Spacy library. 
 
-Source: https://huggingface.co/transformers/usage.html
+Note: is being updated 
+
